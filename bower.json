@@ -1,0 +1,16 @@
+{
+  "name": "codemirror-ternjs",
+  "version": "0.8.0",
+  "homepage": "https://github.com/CarlAmbroselli/codemirror-ternjs",
+  "authors": [
+    "Carl Ambroselli <git@carl-ambroselli.de>"
+  ],
+  "description": "Codemirror Dependencies for Ternjs",
+  "keywords": [
+    "ternjs",
+    "codemirror"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ]
+}
