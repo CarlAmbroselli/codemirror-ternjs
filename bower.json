@@ -5,6 +5,24 @@
   "authors": [
     "Carl Ambroselli <git@carl-ambroselli.de>"
   ],
+  "main": [
+   "dialog.js",
+   "show-hint.js",
+   "ternjs-addon.js",
+   "acorn.js",
+   "acorn_loose.js",
+   "walk.js",
+   "polyfill.js",
+   "signal.js",
+   "tern.js",
+   "def.js",
+   "comment.js",
+   "infer.js",
+   "doc_comment.js"
+  ],
+  "dependencies": {
+    "angular-ui-codemirror": "~0.3.0"
+  },
   "description": "Codemirror Dependencies for Ternjs",
   "keywords": [
     "ternjs",
